@@ -1,3 +1,4 @@
 ## Hi, People! I’m Adnan 👋
-- 👀 I’m interested in doing research through data, exploring on how we can do better. Finding pleasure on making a pretty visualization, also sometimes take web design and development as a hobby.
-- 🌱 I’m currently deepen my fundamental skills from data analytics to programming skill. 
+- 👀 I’m interested in doing research through data and exploring how we can do better through better reasoning. Finding pleasure in making a pretty visualization, also sometimes take web design and development as a hobby.
+- 🌱 I’m currently deepen my fundamental skills from data analytics to programming skill. Familiar with SQL Query, Javascript, R, and Python Programming Language.
+- 
