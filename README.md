@@ -3,3 +3,4 @@
 - 🌱 I’m currently deepen my technical skills from data analytics to programming skill. Familiar with SQL Query, Javascript, R, and Python Programming Language.
 - Connect with me on:
   -  [LinkedIn](https://www.linkedin.com/in/ladnanm/)
+  -  [Tableau](https://public.tableau.com/app/profile/ladnanm)
